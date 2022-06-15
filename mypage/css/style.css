@@ -1,0 +1,18 @@
+.avatar{
+    height: 125px;
+    width: 125px;
+    border-radius: 100%;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.avatar-box{
+    text-align: center;
+}
+
+.littleavatar
+{
+    border-radius: 100%;
+    align-items: center;
+    width: 35px;
+}
